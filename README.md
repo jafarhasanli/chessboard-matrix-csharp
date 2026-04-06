@@ -293,7 +293,7 @@ This project demonstrates:
 
 ## Educational Purpose
 
-This project was created as an academic assignment to explore how matrices with structural constraints can be represented more efficiently than full 2D arrays.
+This project was created as an academic assignment to explore how matrices with structural constraints can be represented more efficiently than full 2D arrays..
 
 ---
 
